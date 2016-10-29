@@ -5,6 +5,7 @@ Functions are blocks of code that can be called upon at any time to perform a sp
 ## Set-up && getting started.
 1. Fork and clone this repository.
 2. Open up a new terminal session.
+3. `cd` into your project directory. Ex: `~/Documents/junior-functions`
 3. Run `nvm use 6.8.0`.
 4. Run `npm install`.
 5. Run `npm run check` to check your functions. Don't forget to console.log your functions.
