@@ -5,7 +5,7 @@
  * Create a function called `calculateAge` and have it accept 2
  * parameters birthYear and currentYear.
  * Your answer should be similar to the output below
- * Ex: 'Your age is either 11 or 12'
+ * Ex: 'Your age is 11 or 12'
  * @param  {[number]} birthYear   Year that you were born
  * @param  {[number]} currentYear The year that this function is run
  * @return {[String]} Sample: 'Your age is either 11 or 12'
