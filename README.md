@@ -22,7 +22,7 @@ console.log(doesSomething());
 #### CHALLENGE 001: Birthday Fever
 Create a function called `calculateAge` and have it accept 2 parameters birthYear and currentYear.   
 Your answer should be similar to the output below
-Ex: 'Your age is either 11 or 12'   
+Ex: 'Your age is 11 or 12'   
 
 
 ------------------------------------------------------------
