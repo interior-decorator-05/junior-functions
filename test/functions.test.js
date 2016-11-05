@@ -15,10 +15,10 @@ Test.serial('Birthday Fever: ', t => {
 
 // ppapRemix
 Test.serial('PPAP REMIX JS style', t => {
-  var expected = `TTTT, I have a tick. I have a toe, Uh!, toe-tick, I have a tick, I have tack, Uh! tack-tick, toe-tick, tack-tick, Uh! tick-tack-toe-tick.`;
   t.plan(2);
+  const expected2 = `tttt, I have a tick, I have a toe, Uh! toe-tick, I have a tick, I have tack, Uh! tack-tick, toe-tick, tack-tick, Uh! tick-tack-toe-tick.`;
   t.not(typeof ppapRemix, undefined, 'You need to create a function called `ppapRemix`');
-  t.is(ppapRemix("tick", "tack", "toe"), expected, 'Expected: ' + expected + " \nBut got: " + ppapRemix("tick", "tack", "toe"))
+  t.is(ppapRemix("tick", "tack", "toe"), expected2, 'Expected: ' + expected + " \nBut got: " + ppapRemix("tick", "tack", "toe"))
 });
 
 // madeInHawaii

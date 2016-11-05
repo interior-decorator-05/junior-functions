@@ -11,6 +11,7 @@
  * @return {[String]} Sample: 'Your age is either 11 or 12'
  */
 
+
 /**
  * CHALLENGE 002: PPAP REMIX JS style
  * ------------------------------------------------------------
@@ -18,8 +19,8 @@
  * parameters: item1, item2, item3. What you will do is replace
  * the original lyrics of the PPAP song with your own Items.
  * Ex: tick, tack, toe.
- * TTTT,
- * I have a tick. I have a toe, Uh!, toe-tick,
+ * tttt,
+ * I have a tick, I have a toe, Uh! toe-tick,
  * I have a tick, I have tack, Uh! tack-tick,
  * toe-tick, tack-tick, Uh! tick-tack-toe-tick,
  * @param  {[String]} item1 Replaces Pen in song
